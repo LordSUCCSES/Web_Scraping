@@ -1,0 +1,2 @@
+Proxy Ip: 123.45.67.89
+Proxy Port: 8080
